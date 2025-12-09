@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+npm-debug.log*
+
+# Build
+dist/
+
+# Banco de dados
+database.sqlite
+*.db
+
+# Ambiente
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
